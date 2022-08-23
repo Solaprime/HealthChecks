@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqH3zcAimUEnB/Iyzix2Tfsp+GCWGXlcZyPiEK/Frr5Rbutccny/aEPlhckh0td4D+a8B6tQ/8ZUm1MkCyBuPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arinola\\Desktop\\HealthCheck\\FlowCheck\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arinola\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

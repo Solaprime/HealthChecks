@@ -1,0 +1,10 @@
+﻿@model ClientApp.ViewModel.WeatherForeCastViewModel
+
+@foreach( var weather in Model.weather )
+{
+    <div>
+        <div>
+            <h3> @weather.Summary</h3>
+        </div>
+    </div>
+}
